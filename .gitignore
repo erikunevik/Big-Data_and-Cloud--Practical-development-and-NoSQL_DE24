@@ -1,1 +1,25 @@
 cloud/
+# Virtual enviroments
+
+venv/
+
+# Warehouse passwords
+
+setup_user.sql
+
+setup_user_reporter.sql
+
+.env
+
+
+**/ .tmp*/
+
+/ *duckdb
+
+dbt_packages
+
+**/logs/
+
+**/target/
+
+.tmp_dagster_home_2sptw57t
