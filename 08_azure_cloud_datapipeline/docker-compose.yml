@@ -7,6 +7,6 @@ services:
       dockerfile: dockerfile.dwh
     ports:
       - "3000:3000"
-    image: crhranalyticsdev.azurecr.io/hr-pipeline:latest
+    image: crbigdata.azurecr.io/hr-pipeline:latest
 
     
