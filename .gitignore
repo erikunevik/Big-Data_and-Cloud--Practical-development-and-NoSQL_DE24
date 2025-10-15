@@ -23,3 +23,10 @@ dbt_packages
 **/target/
 
 .tmp_dagster_home_2sptw57t
+
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+*.tfvars
