@@ -30,3 +30,5 @@ terraform.tfstate
 terraform.tfstate.backup
 crash.log
 *.tfvars
+.terraformc
+terraform.rc
